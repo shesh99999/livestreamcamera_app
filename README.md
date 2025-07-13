@@ -1,9 +1,9 @@
-# Project Title: Live Stream Camera for Play-Cricket
+# Live Stream Camera for Play-Cricket
 
 [APK Download](https://github.com/shesh99999/livestreamcamera_app/releases/download/1.0.0/livestreamcamera.1.0.0.apk) 
 
 ## 1. Description
-The Live Stream Camera app enables UK Play-Cricket clubs to live stream their matches directly to YouTube, complete with score overlays. This unofficial app aims to provide a free and accessible streaming solution for UK cricket clubs. It utilizes the phone's built-in camera and supports features like camera zoom. For optimal quality, high-end phones with 5G SIM support are recommended.
+The Live Stream Camera app enables UK Play-Cricket clubs to live stream their matches directly to YouTube, complete with score overlays. This unofficial app (currently in beta) aims to provide a free and accessible streaming solution for UK cricket clubs. It utilizes the phone's built-in camera and supports features like camera zoom. For optimal quality, high-end phones with 5G SIM support are recommended.
 
 **Target Users:** UK cricket clubs ( Play-Cricket Scoring ).
 
