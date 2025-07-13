@@ -1,15 +1,19 @@
 # Project Title: Live Stream Camera for Play-Cricket
 
+[APK Download](https://github.com/shesh99999/livestreamcamera_app/releases/download/1.0.0/livestreamcamera.1.0.0.apk) 
+
 ## 1. Description
 The Live Stream Camera app enables UK Play-Cricket clubs to live stream their matches directly to YouTube, complete with score overlays. This unofficial app aims to provide a free and accessible streaming solution for UK cricket clubs. It utilizes the phone's built-in camera and supports features like camera zoom. For optimal quality, high-end phones with 5G SIM support are recommended.
 
 **Target Users:** UK cricket clubs ( Play-Cricket Scoring ).
 
+Live streamed Videos : https://www.youtube.com/@KashmirRangersCC
+
 ## 2. Key Features
 *   Direct RTMP streaming to YouTube Live.
 *   Score overlay integration for Play-Cricket matches.
     *   **Web Source:** Automatically updates scores every 3 minutes.
-    *   **Bluetooth Source:** (Planned) Ball-by-ball updates via a custom dongle.
+    *   **Bluetooth Source:** (Avalible soon for purchase) Ball-by-ball updates via a custom dongle.
 *   Selectable streaming resolutions (e.g., 1080p, 720p) with adaptive bitrate.
 *   Camera zoom utilization.
 *   Club ID and YouTube stream key configuration.
@@ -48,6 +52,7 @@ The Live Stream Camera app enables UK Play-Cricket clubs to live stream their ma
 *   High-end phone (e.g., Samsung Galaxy S21 Ultra or newer).
 *   High Tripod Stand (2.6m+), like Neewer Tripod 3m Stand.
 *   Mobile tripod holder with tilt and rotate (remote control heads like Ziphon YT1200 or Soonpho ME2/ME4 are even better).
+*   Ground pegs and Bungee Cords for Tripod stability in high wind
 *   20,000mAh (or larger) power bank for the mobile phone.
 *   **(Coming Soon)** Custom USB Dongle for ball-by-ball scoring for tablets and a remote app for the tablet.
 *   **(Coming Soon)** Software for PCS Pro (Windows) for ball-by-ball overlay for streaming.
