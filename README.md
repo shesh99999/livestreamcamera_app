@@ -19,7 +19,7 @@ The Live Stream Camera app enables UK Play-Cricket clubs to live stream their ma
 ## 3. App Installation & Setup (User Guide - from your text)
 
 ### Install
-1.  Download and install the latest APK.
+1.  [Download](https://github.com/shesh99999/livestreamcamera_app/releases/download/1.0.0/livestreamcamera.1.0.0.apk) and install the latest APK.
 2.  **Allow all permissions requested by the app.** (If missed, the app will not work, so uninstall and reinstall).
 
 ### Initial Configuration (Required Once Only)
