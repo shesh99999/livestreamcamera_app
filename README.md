@@ -1,6 +1,7 @@
-# Live Stream Camera for Play-Cricket
+# Live Stream Camera for Play-Cricket (Trial)
 
 [APK Download](https://github.com/shesh99999/livestreamcamera_app/releases/download/1.0.0/livestreamcamera.1.0.0.apk) 
+Youtube video for setup coming soon.
 
 ## 1. Description
 The Live Stream Camera app enables UK Play-Cricket clubs to live stream their matches directly to YouTube, complete with score overlays. This unofficial app (currently in beta) aims to provide a free and accessible streaming solution for UK cricket clubs. It utilizes the phone's built-in camera and supports features like camera zoom. For optimal quality, high-end phones with 5G SIM support are recommended.
@@ -27,7 +28,7 @@ Live streamed Videos : https://www.youtube.com/@KashmirRangersCC
 2.  **Allow all permissions requested by the app.** (If missed, the app will not work, so uninstall and reinstall).
 
 ### Initial Configuration (Required Once Only)
-1.  **Set Club ID:** Enter your club's Play-Cricket ID.
+1.  **Set Club Code:** Enter your club's Play-Cricket code https://**clubcode**.play-cricket.com. eg https://kashmirrangers.play-cricket.com has club code kashmirrangers
 2.  **Set YouTube Stream URL:** Format `rtmp://x.rtmp.youtube.com/live2/<stream_key>`. Replace `<stream_key>` with your club's YouTube channel stream key.
 3.  **Set Resolution:** Choose 1080p or 720p. This sets the bitrate, and adaptive bitrate is used.
 4.  **Select Score Source:**
@@ -55,9 +56,14 @@ Live streamed Videos : https://www.youtube.com/@KashmirRangersCC
 *   Ground pegs and Bungee Cords for Tripod stability in high wind
 *   20,000mAh (or larger) power bank for the mobile phone.
 *   **(Coming Soon)** Custom USB Dongle for ball-by-ball scoring for tablets and a remote app for the tablet.
+*   **(Coming Soon)** When using dongle on tab, Need USB charger and dongle adapter to charge and connect dongle on tab in same time.
+
+## 6. Software
+*   Live Camera Streaming APK [APK Download](https://github.com/shesh99999/livestreamcamera_app/releases/download/1.0.0/livestreamcamera.1.0.0.apk) *   
+*   **(Coming Soon)** For Ball by Ball overla using Custom USB Dongle, Remote app for the tablet.
 *   **(Coming Soon)** Software for PCS Pro (Windows) for ball-by-ball overlay for streaming.
 
-## 6. Permissions Required (Assumed - Please Verify/Add)
+## 7. Permissions Required (Assumed - Please Verify/Add)
 *   `android.permission.CAMERA` (To access the camera for streaming)
 *   `android.permission.RECORD_AUDIO` (If streaming audio along with video)
 *   `android.permission.INTERNET` (To stream to YouTube and fetch web scores)
